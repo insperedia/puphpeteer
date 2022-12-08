@@ -1,5 +1,5 @@
 {
-  "name": "insperedia/puphpeteer",
+  "name": "@insperedia/puphpeteer",
   "version": "2.0.0",
   "description": "A Puppeteer bridge for PHP, supporting the entire API.",
   "keywords": [
@@ -22,7 +22,7 @@
     "node": ">=9.0.0"
   },
   "dependencies": {
-    "@nesk/rialto": "^1.2.1",
+    "insperedia/node-bridge": "^1.2.1",
     "puppeteer": "~5.5.0"
   },
   "devDependencies": {
