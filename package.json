@@ -22,7 +22,8 @@
     "node": ">=9.0.0"
   },
   "dependencies": {
-    "insperedia/node-bridge": "^1.2.1",
+    "@nesk/puphpeteer": "^2.0.0",
+    "@nesk/rialto": "^1.2.1",
     "puppeteer": "~5.5.0"
   },
   "devDependencies": {

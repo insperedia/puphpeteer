@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": ">=7.3",
-        "insperedia/node-bridge": "~",
+        "insperedia/node-bridge": "*",
         "psr/log": "^3.0.0",
         "vierbergenlars/php-semver": "^3.0.2"
     },
@@ -52,5 +52,6 @@
             "type": "vcs",
             "url": "https://github.com/insperedia/node-bridge"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
